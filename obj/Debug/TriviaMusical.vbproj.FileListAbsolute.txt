@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\TriviaMusical\obj\Debug\TriviaMusical.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\TriviaMusical\obj\Debug\TriviaMusical.frmTriviaMusical.resources
+C:\Users\oswal\source\repos\TriviaMusical\obj\Debug\TriviaMusical.Resources.resources
+C:\Users\oswal\source\repos\TriviaMusical\obj\Debug\TriviaMusical.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\TriviaMusical\obj\Debug\TriviaMusical.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\TriviaMusical\bin\Debug\TriviaMusical.exe.config
+C:\Users\oswal\source\repos\TriviaMusical\bin\Debug\TriviaMusical.exe
+C:\Users\oswal\source\repos\TriviaMusical\bin\Debug\TriviaMusical.pdb
+C:\Users\oswal\source\repos\TriviaMusical\bin\Debug\TriviaMusical.xml
+C:\Users\oswal\source\repos\TriviaMusical\obj\Debug\TriviaMusical.exe
+C:\Users\oswal\source\repos\TriviaMusical\obj\Debug\TriviaMusical.xml
+C:\Users\oswal\source\repos\TriviaMusical\obj\Debug\TriviaMusical.pdb
